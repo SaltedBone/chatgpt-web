@@ -1,4 +1,4 @@
-# ChatGPT-web
+# fork of ChatGPT-web (used for experimentation) THIS IS NOT WEBgpt!
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Niek/chatgpt-web/pages.yml?style=flat-square)](https://github.com/Niek/chatgpt-web/actions/workflows/pages.yml)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com)
 [![GitHub](https://img.shields.io/github/license/Niek/chatgpt-web)](/LICENSE)
